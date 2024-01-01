@@ -1,7 +1,5 @@
 EDA stands for Exploratory Data Analysis. It is an approach to analyzing data sets to summarize their main characteristics, often with the help of statistical graphics and other data visualization methods. The primary goal of EDA is to uncover patterns, relationships, and trends in the data, as well as to identify any outliers or anomalies.
 
-Here's a summary you can add to your readme.md file:
-
 ## Exploratory Data Analysis (EDA)
 
 Exploratory Data Analysis (EDA) is a crucial step in the data analysis process. It involves the examination and visualization of data to gain insights and understand its underlying structure. EDA aims to reveal patterns, trends, and potential outliers within the dataset, aiding in the formulation of hypotheses and guiding subsequent analysis.
